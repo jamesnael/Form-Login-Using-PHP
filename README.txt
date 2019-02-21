@@ -1,4 +1,4 @@
-Tutorial Memakai Data PHP yang di clone
+Tutorial Menggunakan Data PHP yang di clone
 1.Pindahkan folder yang di clone ke folder XAMPP/htdocs
 2.Setelah itu, buka PhpMyAdmin
 3.Buat database baru dengan nama db_test
